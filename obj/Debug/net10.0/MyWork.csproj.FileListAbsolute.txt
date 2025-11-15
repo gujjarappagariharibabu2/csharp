@@ -1,0 +1,14 @@
+C:\Users\harib.HARIBABU\MyWork\bin\Debug\net10.0\MyWork.exe
+C:\Users\harib.HARIBABU\MyWork\bin\Debug\net10.0\MyWork.deps.json
+C:\Users\harib.HARIBABU\MyWork\bin\Debug\net10.0\MyWork.runtimeconfig.json
+C:\Users\harib.HARIBABU\MyWork\bin\Debug\net10.0\MyWork.dll
+C:\Users\harib.HARIBABU\MyWork\bin\Debug\net10.0\MyWork.pdb
+C:\Users\harib.HARIBABU\MyWork\obj\Debug\net10.0\MyWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harib.HARIBABU\MyWork\obj\Debug\net10.0\MyWork.AssemblyInfoInputs.cache
+C:\Users\harib.HARIBABU\MyWork\obj\Debug\net10.0\MyWork.AssemblyInfo.cs
+C:\Users\harib.HARIBABU\MyWork\obj\Debug\net10.0\MyWork.csproj.CoreCompileInputs.cache
+C:\Users\harib.HARIBABU\MyWork\obj\Debug\net10.0\MyWork.dll
+C:\Users\harib.HARIBABU\MyWork\obj\Debug\net10.0\refint\MyWork.dll
+C:\Users\harib.HARIBABU\MyWork\obj\Debug\net10.0\MyWork.pdb
+C:\Users\harib.HARIBABU\MyWork\obj\Debug\net10.0\MyWork.genruntimeconfig.cache
+C:\Users\harib.HARIBABU\MyWork\obj\Debug\net10.0\ref\MyWork.dll
