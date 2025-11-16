@@ -149,7 +149,7 @@ class Q14
 {
     static void Main()
     {
-        string UserName = "Hari" , UserPassword = "1234", InputUserName = "Hri", InputUserPassword="1234";
+        string UserName = "Hari" , UserPassword = "1234", InputUserName = "Hari", InputUserPassword="1234";
         if(InputUserName == UserName)
          if(InputUserPassword == UserPassword)
          Console.WriteLine("Login Successfull");
